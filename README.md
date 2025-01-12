@@ -48,5 +48,4 @@ Figma Templates: Dùng các mẫu có sẵn trên Figma Community.
 Plugin hữu ích:
 Unsplash: Chèn hình ảnh minh họa.
 Iconify: Thêm biểu tượng nhanh.
-Nếu cần hướng dẫn chi tiết hơn hoặc hỗ trợ trực tiếp trong Figma, bạn có thể gửi yêu cầu cụ thể!
-Link figma: https://www.figma.com/design/1M7kNZIm7CK95LrpmlMLwC/hi-fi?node-id=0-1&t=lt7uWnzPppsvY5AP-1
+Link figma của đồ án này: https://www.figma.com/design/1M7kNZIm7CK95LrpmlMLwC/hi-fi?node-id=0-1&t=lt7uWnzPppsvY5AP-1
